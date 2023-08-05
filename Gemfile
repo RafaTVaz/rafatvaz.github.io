@@ -4,6 +4,9 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 6.1"
 
+gem 'jekyll-compose', group: [:jekyll_plugins] #plugin for adding posts (new added by me)
+#  bundle exec jekyll post "My New Post"
+
 group :test do
   gem "html-proofer", "~> 3.18"
 end
