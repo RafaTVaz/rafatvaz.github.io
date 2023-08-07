@@ -4,12 +4,11 @@ title: Push the Pull
 date: 2023-08-05 01:12 +0100
 categories: [Games, GameJam]
 tags: [gamedev]     # TAG names should always be lowercase
-image:
-  path: /assests/pics/thumbnail
+image: https://img.itch.zone/aW1nLzg1OTc5MTMucG5n/original/qBYs2L.png
+  #path: assets\img\pics\thumbnail.png
   #lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Preview Image
+  #alt: Preview Image
 ---
-## Push the Pull
 
 Push and Pull is a 48h Game Jam 2022 project created by 4 people. 
 ![Pic](https://img.itch.zone/aW1nLzg1OTc5MTMucG5n/original/qBYs2L.png)
@@ -19,4 +18,4 @@ Manipulate objects and yourself by pulling and pushing on objects and figure out
 The artstyle was heavily inpired by Simon Kaempfer artwork.
 
 - Puzzle Game
-- First Person Game
+- First Person Game0
