@@ -20,7 +20,7 @@ timezone:
 
 title: Rafael Vaz  # the main title
 
-tagline: Portfolio site for games and drawing # it will display as the sub-title
+tagline: Game Designer & Programmer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Simple Portfolio Site by RafaTVaz
@@ -35,7 +35,8 @@ instagram:
   username: bahble # change to your twitter username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: username # change to your twitter username
+
 
 
 
@@ -44,14 +45,14 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Rafael Vaz
   email: rafael.t.vaz@gmail.com # change to your email address
-  links:
+  links:  
     # The first element serves as the copyright owner's link
     - https://www.instagram.com/bahble/
     - https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
 
-    # - https://www.linkedin.com/in/username
+   - https://www.linkedin.com/in/rafatvaz
 
 google_site_verification: # fill in to your verification string
 

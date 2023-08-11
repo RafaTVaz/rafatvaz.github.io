@@ -11,14 +11,15 @@ image: https://img.itch.zone/aW1nLzg1OTc5MTMucG5n/original/qBYs2L.png
 ---
 [![Itch](https://www.google.com/s2/favicons?domain=https://itch.io&sz=64)](https://bahble.itch.io/push-the-pull)
 
-**Push the Pull**
- is a first person puzzle game done for the 48h Global Game Jam 2022. 
+**Push the Pull**is a first-person puzzle game done for the 48h Global Game Jam 2022. 
 <!-- #![Pic](https://img.itch.zone/aW1nLzg1OTc5MTMucG5n/original/qBYs2L.png) -->
 
 
 Manipulate objects or yourself by pulling and pushing on objects and figure out how to get to the next room. Platform your way to the exit by flinging and repulsing yourself from large objects. Pull small objects towards you or shoot them across the room. The art style was heavily inspired by Simon Kaempfer's artwork.
 
 *The game is available on [itch](https://bahble.itch.io/push-the-pull)*
+
+*Done using **Unity** and **C#*****
 
 ### The Game
 This small game was done for a 48-hour game jam during the GGJ in 2022, we were a group of four working on this from home, for a small competition run by our university. **Duality** was the theme of the jam. The idea was to create a unique physics-based platformer/puzzle game and explore those ideas a bit, a simple and effective prototype to show off our design and ideas.
