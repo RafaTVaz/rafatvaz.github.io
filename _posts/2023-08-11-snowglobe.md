@@ -4,8 +4,9 @@ title: SnowGlobe
 date: 2021-02-15 13:20 +0100
 categories: [Games, Projects]
 tags: [gamedev]     # TAG names should always be lowercase
-image: #..\..\assets\img\pics\VR-CoverPic.png
-  path: https://github.com/RafaTVaz/rafatvaz.github.io/tree/main/assets/img/pics/VR-CoverPic.png
+image: /assets/img/pics/VR-CoverPic.png
+ #..\..\assets\img\pics\VR-CoverPic.png
+#   path: https://github.com/RafaTVaz/rafatvaz.github.io/tree/main/assets/img/pics/VR-CoverPic.png
   #lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   #alt: Preview Image
 ---
