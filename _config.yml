@@ -12,33 +12,27 @@ baseurl: ""
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
+timezone: 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Rafael Vaz  # the main title
+title: Rafael Vaz # the main title
 
 tagline: Game Designer & Programmer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Simple Portfolio Site by RafaTVaz
+  Simple Portfolio Site by RafaTVaz.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://rafatvaz.github.io"
 
 github:
-  username: rafatvaz # change to your github username
-
-instagram:
-  username: bahble # change to your twitter username
+  username: rafatvaz  # change to your github username
 
 twitter:
-  username: username # change to your twitter username
-
-
-
+  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -47,12 +41,13 @@ social:
   email: rafael.t.vaz@gmail.com # change to your email address
   links:  
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/rafatvaz
     - https://www.instagram.com/bahble/
     - https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
-
-   - https://www.linkedin.com/in/rafatvaz
+    # - https://www.facebook.com/username
+    # - https://www.linkedin.com/in/rafatvaz
 
 google_site_verification: # fill in to your verification string
 
@@ -80,7 +75,7 @@ theme_mode: dark # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/img/favicons/android-chrome-512x512.png"
