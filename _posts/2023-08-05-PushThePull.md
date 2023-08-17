@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Push the Pull
-date: 2022-02-05 01:12 +0100
+date: 2022-10-05 01:12 +0100
 categories: [Games, GameJam]
 tags: [gamedev]     # TAG names should always be lowercase
 image: https://img.itch.zone/aW1nLzg1OTc5MTMucG5n/original/qBYs2L.png

@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-Hello, my name is Rafael and I'm very passionate about narrative and the power of visual storytelling mediums. I've always loved drawing and since University have become fixated on video games, understanding them better and working on them.
+Hello, my name is Rafael and I'm very passionate about narrative and the power of visual storytelling mediums. I've always loved drawing and since University have become fixated on video games, understanding them better and working on them. I adore working with other people, learning from and with them while challenging myself to get better too. 
 
 Currently I'm finishing my master's degree at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) in *Computer Science*, where I also completed my bachelor's in *Electrical and Computer Engineering*. 
 My master's degree is specialized in **_Game Development_** and **_Computer Graphics & Interaction_**.
