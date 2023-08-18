@@ -16,7 +16,7 @@ Uni is where I learned about and how much I love **programming**, and games had 
 *Below is the list of technologies I have experience with:*
 
 **Programming languages:**  
-	C/C++ | C# | GLSL | Java | OpenGL | Vulkan
+	C/C++ | C# | GLSL | Java | OpenGL | Vulkan | JavaScript | Python
 
 **Tools/Software:**  
 	Unity | Unreal Engine | Visual Studio 
@@ -27,9 +27,3 @@ Uni is where I learned about and how much I love **programming**, and games had 
 I've been drawing regularly since school and also have started to dabble in comics and animation. Exploring these storytelling methods is something I'm very interested in and gives me a much better understanding of Art as well. 
 
   *For more of my art check out my [instagram](https://www.instagram.com/bahble/)*
-
-
-
-
- <!-- update SNBA drawing page with 3rd year content -->
-
