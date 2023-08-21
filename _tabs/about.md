@@ -19,7 +19,7 @@ Uni is where I learned about and how much I love **programming**, and games had 
 	C/C++ | C# | GLSL | Java | OpenGL | Vulkan | JavaScript | Python | Assembly
 
 **Tools/Software:**  
-	Unity | Unreal Engine | Visual Studio 
+	Unity | Unreal Engine | Visual Studio
 
 ### Art
 **Drawing** is something I cannot live without. During Uni I took drawing lessons for 3 years at [SNBA](https://www.snba.pt/en/) where I honed my skills in anatomy, learning new techniques, freeing my hands and learning how to visually study bodies, light and space.   *More on what I've learned and drawn is on my [behance](https://www.behance.net/gallery/81045663/Drawing-Lessons)* 

@@ -8,7 +8,7 @@ image: https://img.itch.zone/aW1nLzg2MzQ4MjkucG5n/original/UWjEYr.png
 ---
 A game created for the 2022 Games for Good  GameJam at IADE. 
 
-This project was made to better understand how to create a simple civ game with tile-to-tile interaction. 
+This project was made to better understand how to create a simple civ game with tile-to-tile interaction.  
 
 Project was unfinished but it was an exceptional learning experience. Many hours were spent figuring out the logic between tiles and coding that logic and interaction.
 

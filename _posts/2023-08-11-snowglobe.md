@@ -11,7 +11,7 @@ image: /assets/img/pics/VR-CoverPic.png
 <!-- #![Pic](https://img.itch.zone/aW1nLzg1OTc5MTMucG5n/original/qBYs2L.png) -->
 
 
-Experimental Semester Group Project for better object interaction in VR; Chose multiple objects from afar and manipulate them in the palm of your hands. Move objects in your hands and they move in real space too.
+Experimental Semester Group Project for better object interaction in VR; Chose multiple objects from afar and manipulate them in the palm of your hands. Move objects in your hands and they move in real space too. 
 
 *Done using **Unity** and **C#*****
 

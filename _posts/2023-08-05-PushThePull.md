@@ -41,6 +41,5 @@ The specific work I did on the game was:
 - Particle effects
 
 
-
 ### Full playthrough:
 {% include embed/youtube.html id='G8QEAOzFnsg?si=NlV5Z1RDFx9OWCwC' %}
