@@ -6,7 +6,7 @@ order: 4
 Hello, my name is Rafael and I'm very passionate about narrative and the power of visual storytelling mediums. I've always loved drawing and since University have become fixated on video games, understanding them better and working on them. I adore working with other people, learning from and with them while challenging myself to get better too. 
 
 Currently I'm finishing my master's degree at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) in *Computer Science*, where I also completed my bachelor's in *Electrical and Computer Engineering*. 
-My master's degree is specialized in **_Game Development_** and **_Computer Graphics & Interaction_**.
+My master's degree is specialised in **_Game Development_** and **_Computer Graphics & Interaction_**.
   
   
 ### Games & Programing
@@ -16,7 +16,7 @@ Uni is where I learned about and how much I love **programming**, and games had 
 *Below is the list of technologies I have experience with:*
 
 **Programming languages:**  
-	C/C++ | C# | GLSL | Java | OpenGL | Vulkan | JavaScript | Python
+	C/C++ | C# | GLSL | Java | OpenGL | Vulkan | JavaScript | Python | Assembly
 
 **Tools/Software:**  
 	Unity | Unreal Engine | Visual Studio 
