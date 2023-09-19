@@ -11,7 +11,7 @@ image: https://img.itch.zone/aW1nLzg1OTc5MTMucG5n/original/qBYs2L.png
 ---
 [![Itch](https://www.google.com/s2/favicons?domain=https://itch.io&sz=64)](https://bahble.itch.io/push-the-pull)
 
-**Push the Pull**is a first-person puzzle game done for the 48h Global Game Jam 2022. 
+**Push the Pull** is a first-person puzzle game done for the 48h Global Game Jam 2022. 
 <!-- #![Pic](https://img.itch.zone/aW1nLzg1OTc5MTMucG5n/original/qBYs2L.png) -->
 
 
