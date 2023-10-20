@@ -13,7 +13,7 @@ image: /assets/img/pics/VR-CoverPic.png
 
 Experimental Semester Group Project for better object interaction in VR; Chose multiple objects from afar and manipulate them in the palm of your hands. Move objects in your hands and they move in real space too. 
 
-*Done using **Unity** and **C#*****
+*Done using **Unity** and **C#***
 
 <!-- *The game is available on [itch](https://bahble.itch.io/push-the-pull)* -->
 

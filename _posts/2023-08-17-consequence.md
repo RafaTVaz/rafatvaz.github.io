@@ -12,14 +12,16 @@ This project was made to better understand how to create a simple civ game with 
 
 Project was unfinished but it was an exceptional learning experience. Many hours were spent figuring out the logic between tiles and coding that logic and interaction.
 
-<iframe
+<!-- <iframe
     height="280"
 	width="500"
-    src="https://youtu.be/ltCeqJnJ9Z8?si=ZqgdOOVlsK3BdUEc"
+    src="https://www.youtube.com/watch?v=ltCeqJnJ9Z8&ab_channel=RafaelVaz"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
 >
-</iframe>
+</iframe> -->
+
+{% include embed/youtube.html id='ltCeqJnJ9Z8?si=6aNdP6yMy9_gNVF6' %}
 
 [![Itch](https://www.google.com/s2/favicons?domain=https://itch.io&sz=64)](https://bahble.itch.io/consequence)

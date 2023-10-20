@@ -6,7 +6,7 @@ categories: [Games, Projects]
 image: /assets/img/pics/cppGamePic.PNG
 ---
 
-This game was made in two weeks in order to learn C++.  
+This game was made in two weeks in order to better learn C++ & SDL.  
 
 *The game & code is available on [github](https://github.com/RafaTVaz/SimplePuzzleGame/releases/tag/v1)*
 

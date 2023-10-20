@@ -16,7 +16,7 @@ Uni is where I learned about and how much I love **programming**, and games had 
 *Below is the list of technologies I have experience with:*
 
 **Programming languages:**  
-	C/C++ | C# | GLSL | Java | OpenGL | Vulkan | JavaScript | Python | Assembly
+	C/C++ | C# | GLSL | Java | OpenGL | Vulkan | SDL | JavaScript | Python | Assembly
 
 **Tools/Software:**  
 	Unity | Unreal Engine | Visual Studio

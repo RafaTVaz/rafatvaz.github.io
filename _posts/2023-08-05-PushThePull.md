@@ -19,7 +19,7 @@ Manipulate objects or yourself by pulling and pushing on objects and figure out 
 
 *The game is available on [itch](https://bahble.itch.io/push-the-pull)*
 
-*Done using **Unity** and **C#*****
+*Done using **Unity** and **C#***
 
 ### The Game
 This small game was done for a 48-hour game jam during the GGJ in 2022, we were a group of four working on this from home, for a small competition run by our university. **Duality** was the theme of the jam. The idea was to create a unique physics-based platformer/puzzle game and explore those ideas a bit, a simple and effective prototype to show off our design and ideas.
